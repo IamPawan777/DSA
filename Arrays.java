@@ -1,11 +1,4 @@
-/* .....arrays declaration & traverse....... 
- * 
- * 
- * 
- * 
- * 
- * 
-*/
+/* ...arrays declaration & traverse...*/
 
 // class Arrays {
 //     public static void main(String[] args) {
